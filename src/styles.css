@@ -1,0 +1,21 @@
+* {
+  box-sizing: inherit;
+}
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+body, div {
+  margin: 0;
+  padding: 0;
+}
+.app-root {
+  margin: 100px auto;
+  width: 600px;
+  max-width: 100%;
+  padding: 1rem;
+  background-color: rgb(18, 85, 151);
+  color: white;
+}
